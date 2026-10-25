@@ -1,0 +1,81 @@
+{
+ "T01": {
+  "dif_bruto_mil": 44392.55,
+  "bruto_linhas_inseridas_mil": 44392.55,
+  "dif_provisao_mil": -21977.371,
+  "dif_liquido_mil": 66369.921
+ },
+ "comparacao": [
+  {
+   "id_erro": "E05",
+   "teste": "T02_vencimento_antes_origem",
+   "inseridos": 400,
+   "sinalizados": 400,
+   "identificados": 400,
+   "recall_pct": 100.0,
+   "falsos_positivos": 0,
+   "distorcao_liquida_inserida_mil": 0.0
+  },
+  {
+   "id_erro": "E01",
+   "teste": "T03_corte_origem_pos_2025",
+   "inseridos": 1100,
+   "sinalizados": 1100,
+   "identificados": 1100,
+   "recall_pct": 100.0,
+   "falsos_positivos": 0,
+   "distorcao_liquida_inserida_mil": 14800.0
+  },
+  {
+   "id_erro": "E04",
+   "teste": "T04_duplicidade_contrato",
+   "inseridos": 660,
+   "sinalizados": 1320,
+   "identificados": 660,
+   "recall_pct": 100.0,
+   "falsos_positivos": 660,
+   "distorcao_liquida_inserida_mil": 9131.2
+  },
+  {
+   "id_erro": "E02",
+   "teste": "T05_estagio_incoerente_atraso",
+   "inseridos": 2500,
+   "sinalizados": 2500,
+   "identificados": 2500,
+   "recall_pct": 100.0,
+   "falsos_positivos": 0,
+   "distorcao_liquida_inserida_mil": 25667.3
+  },
+  {
+   "id_erro": "E03",
+   "teste": "T06_estagio3_provisao_baixa",
+   "inseridos": 600,
+   "sinalizados": 600,
+   "identificados": 600,
+   "recall_pct": 100.0,
+   "falsos_positivos": 0,
+   "distorcao_liquida_inserida_mil": 7195.9
+  },
+  {
+   "id_erro": "E06",
+   "teste": "T07_titulo_acima_541_dias",
+   "inseridos": 800,
+   "sinalizados": 800,
+   "identificados": 800,
+   "recall_pct": 100.0,
+   "falsos_positivos": 0,
+   "distorcao_liquida_inserida_mil": 540.0
+  },
+  {
+   "id_erro": "E07",
+   "teste": "T08_manual_redondo_fim_periodo",
+   "inseridos": 60,
+   "sinalizados": 60,
+   "identificados": 60,
+   "recall_pct": 100.0,
+   "falsos_positivos": 0,
+   "distorcao_liquida_inserida_mil": 9200.0
+  }
+ ],
+ "linhas": 522622
+}

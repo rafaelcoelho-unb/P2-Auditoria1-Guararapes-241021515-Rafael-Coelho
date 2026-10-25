@@ -1,0 +1,15 @@
+{
+ "populacao_linhas": 522620,
+ "valor_contabil_R$mil": 7148365.5,
+ "TM_R$mil": 25275.0,
+ "intervalo_R$mil": 7077.0,
+ "n_teorico": 1010.1,
+ "n_selecionado": 1010,
+ "itens_acima_intervalo": 0,
+ "itens_com_distorcao": 17,
+ "distorcao_conhecida_grandes_R$mil": 0.0,
+ "distorcao_projetada_R$mil": 93866.4,
+ "limite_superior_Stringer_R$mil": 148273.7,
+ "distorcao_real_inserida_R$mil": 66534.4,
+ "conclusao": "REJEITAR (limite superior > erro tolerável)"
+}

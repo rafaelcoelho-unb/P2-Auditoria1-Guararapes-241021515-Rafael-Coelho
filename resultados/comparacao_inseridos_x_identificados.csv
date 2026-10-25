@@ -1,0 +1,8 @@
+id_erro,teste,inseridos,sinalizados,identificados,recall_pct,falsos_positivos,distorcao_liquida_inserida_mil
+E05,T02_vencimento_antes_origem,400,400,400,100.0,0,0.0
+E01,T03_corte_origem_pos_2025,1100,1100,1100,100.0,0,14800.0
+E04,T04_duplicidade_contrato,660,1320,660,100.0,660,9131.2
+E02,T05_estagio_incoerente_atraso,2500,2500,2500,100.0,0,25667.3
+E03,T06_estagio3_provisao_baixa,600,600,600,100.0,0,7195.9
+E06,T07_titulo_acima_541_dias,800,800,800,100.0,0,540.0
+E07,T08_manual_redondo_fim_periodo,60,60,60,100.0,0,9200.0

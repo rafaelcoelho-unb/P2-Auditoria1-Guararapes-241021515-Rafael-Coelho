@@ -1,0 +1,30 @@
+norma,papel_de_trabalho,versao_aplicada_2025,arquivo_dossie,arquivos_de_apoio,estado
+Estrutura Conceitual,PT EC,NBC TA Estrutura Conceitual – DOU 25/11/15,dossie/PT_EC_estrutura_conceitual.md,,rascunho
+NBC TA 200,PT 200,NBC TA 200 (R1) – DOU 05/09/16,dossie/PT_200_objetivos_gerais.md,,rascunho
+NBC TA 210,PT 210,NBC TA 210 (R1) – DOU 05/09/16,dossie/PT_210_termos_do_trabalho.md,,rascunho
+NBC TA 220,PT 220,NBC TA 220 (R3) – DOU 09/12/21,dossie/PT_220_gestao_da_qualidade.md,,rascunho
+NBC TA 230,PT 230,NBC TA 230 (R1) – DOU 05/09/16,dossie/PT_230_documentacao.md,,rascunho
+NBC TA 240,PT 240,NBC TA 240 (R1) – DOU 05/09/16,dossie/PT_240_fraude.md,codigo/02_testes_auditoria.py (T-08),rascunho
+NBC TA 250,PT 250,NBC TA 250 – DOU 14/02/19,dossie/PT_250_leis_e_regulamentos.md,,rascunho
+NBC TA 260,PT 260,NBC TA 260 (R2) – DOU 04/07/16,dossie/PT_260_comunicacao_governanca.md,,rascunho
+NBC TA 265,PT 265,NBC TA 265 – Res. CFC 1.210/09,dossie/PT_265_deficiencias_controle.md,dados/registro_erros_inseridos.csv,rascunho
+NBC TA 300,PT 300,NBC TA 300 (R1) – DOU 05/09/16,dossie/PT_300_planejamento.md,,rascunho
+NBC TA 315,PT 315,NBC TA 315 (R2) – DOU 02/09/21,dossie/PT_315_riscos.md,,rascunho com dados reais (DFP 2025)
+NBC TA 320,PT 320,NBC TA 320 (R1) – DOU 05/09/16,dossie/PT_320_materialidade.md,planilhas/Papeis_de_trabalho_calculos.xlsx (PT320),rascunho com dados reais (DFP 2025)
+NBC TA 330,PT 330,NBC TA 330 (R1) – DOU 05/09/16,dossie/PT_330_respostas_aos_riscos.md,codigo/02_testes_auditoria.py,rascunho com dados reais (DFP 2025)
+NBC TA 402,PT 402,NBC TA 402 – Res. CFC 1.215/09,dossie/PT_402_servicos_terceirizados.md,,rascunho com dados reais (DFP 2025); procedimentos internos planejados
+NBC TA 450,PT 450,NBC TA 450 (R1) – DOU 05/09/16,dossie/PT_450_distorcoes.md,dados/registro_erros_inseridos.csv; planilhas (PT450),rascunho (dados sintéticos)
+NBC TA 500,PT 500,NBC TA 500 (R1) – DOU 05/09/16,dossie/PT_500_evidencia.md,resultados/T01_conciliacao_NE13.csv; planilhas (PT500),rascunho com dados reais (DFP 2025)
+NBC TA 501,PT 501,NBC TA 501 – Res. CFC 1.218/09,dossie/PT_501_itens_especificos.md,,rascunho com dados reais (DFP 2025); procedimentos internos planejados
+NBC TA 505,PT 505,NBC TA 505 – Res. CFC 1.219/09,dossie/PT_505_confirmacoes_externas.md,,rascunho com dados reais (DFP 2025); procedimentos internos planejados
+NBC TA 510,PT 510,NBC TA 510 (R1) – DOU 05/09/16,dossie/PT_510_saldos_iniciais.md,codigo/07_comparar_dfp2024_2025.py; resultados/comparativos_DFP2024_vs_DFP2025.csv,rascunho com dados reais (DFP 2024 e 2025)
+NBC TA 520,PT 520,NBC TA 520 – Res. CFC 1.221/09,dossie/PT_520_analiticos.md,resultados/T09_analiticos.csv; planilhas (PT520),rascunho com dados reais (DFP 2025)
+NBC TA 530,PT 530,NBC TA 530 – Res. CFC 1.222/09,dossie/PT_530_amostragem.md,codigo/03_amostragem_mus.py; resultados/PT530_*,rascunho (dados sintéticos)
+NBC TA 540,PT 540,NBC TA 540 (R2) – DOU 23/10/19,dossie/PT_540_estimativas.md,planilhas (PT540),rascunho com dados reais (DFP 2025)
+NBC TA 550,PT 550,NBC TA 550 – Res. CFC 1.224/09,dossie/PT_550_partes_relacionadas.md,,rascunho com dados reais (DFP 2025); procedimentos internos planejados
+NBC TA 560,PT 560,NBC TA 560 (R1) – DOU 05/09/16,dossie/PT_560_eventos_subsequentes.md,,rascunho com dados reais (DFP 2025); procedimentos internos planejados
+NBC TA 570,PT 570,NBC TA 570 (versão anterior à R1) – vigente em 2025,dossie/PT_570_continuidade_operacional.md,,rascunho com dados reais (DFP 2025); procedimentos internos planejados
+NBC TA 580,PT 580,NBC TA 580 (R1) – DOU 05/09/16,dossie/PT_580_representacoes_formais.md,,rascunho
+NBC TA 600,PT 600,NBC TA 600 (R2) – DOU 06/12/23,dossie/PT_600_auditoria_de_grupos.md,,rascunho com dados reais (DFP 2025); procedimentos internos planejados
+(programas),Programas de auditoria,,dossie/PROGRAMAS_DE_AUDITORIA.md,,rascunho
+(conclusão),Conclusão integrada,,dossie/CONCLUSAO_INTEGRADA.md,,rascunho
